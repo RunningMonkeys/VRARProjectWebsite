@@ -1,0 +1,26 @@
+body{
+	
+	
+}
+
+h1{
+	border-width: 10px;
+	border-style: outset;
+	border-color: green;
+	padding: 10px 10px 10px 10px;
+	font-family: 'Archivo Black', sans-serif;
+	color: Black;
+	background-color:#20a106;
+	line-height: 1.2;
+}
+
+p {
+	border-width: 10px;
+	border-style: outset;
+	border-color: teal;
+	padding: 10px 10px 10px 10px;
+	font-family: 'Press Start 2P', cursive;
+	color: black;
+	background-color:#1FC7C5;
+	line-height: 1.2;
+}
